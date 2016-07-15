@@ -1,5 +1,0 @@
-Give table name : pro and then export
-and run it if any error pls inform me in paste my app
-file structure must be 
-1. root/www directory
-2.jose i mean yhis file
